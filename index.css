@@ -8,6 +8,7 @@ body {
 }
 .buf {
     width: 65px;
+    height: auto;
 }
 
 .container {
